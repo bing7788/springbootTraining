@@ -1,3 +1,0 @@
-# springbootTraining
-Learning spring-boot
-
